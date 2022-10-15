@@ -22,7 +22,7 @@ Actors:
 - If an address tries to register as a Candidate or a Voter outside the register phase, the transaction will be reverted.
 - If another address outside the Manager tries to change the votign phase, the transaction will be reverted.
 
-Limitations of the Project
+# Limitations of the Project
 This project is for educational purposes only, it is not production ready.
 
 
